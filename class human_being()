@@ -1,0 +1,21 @@
+class human_being():
+    def __init__(self):
+        race = input('Tell me where you race: ')
+        country = input()
+        self.race = race('Tell me where are you from: ')
+        self.country = country
+
+            if country == 'Brazil'
+                print('Brazillian')
+
+            elif country == 'China'
+                print('Chinese')
+    
+    def features(self):
+        self.skin = skin
+    
+    def weight(self):
+        self.fat = fat
+        self.skinny = skinny
+
+human_being()
